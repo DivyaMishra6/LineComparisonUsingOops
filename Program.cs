@@ -6,6 +6,8 @@
         {
             Console.WriteLine("Welcome to Line Comparison Problem!!!");
 
+            Line line = new Line();
+            line.Call();
         }
     }
 }
